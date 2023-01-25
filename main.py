@@ -13,4 +13,4 @@ def __Feri__X__Rafly__():
 	except AttributeError:
 		__Fera__()
 if __name__=="__main__":
-	__Feri__X__Rafly__()
+	__Fera__()
