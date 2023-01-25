@@ -25,7 +25,7 @@ $ pip install --upgrade pip
 $ git clone https://github.com/CyberCarboon2/Fera
 $ ls
 $ cd Fera
-$ python fera.py
+$ python Fera.py
 ```
 
 ## Cara Untuk Update Script
@@ -34,7 +34,7 @@ $ cd
 $ rm -rf Fera
 $ git clone https://github.com/CyberCarboon2/Fera
 $ cd Fera
-$ python fera.py
+$ python Fera.py
 ```
 <ul>
 <li>
